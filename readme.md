@@ -19,12 +19,13 @@ Download the font
        url('dotsfont.svg#dotsfontregular') format('svg');
 }
 
-[conceal] {
+[conceal]:not(:active):not(:focus) {
   font-family: 'dotsfont';
 }
-[conceal]:active {
-  font-family: initial;
-}
+```
+
+```html
+<span conceal>hide me</span>
 ```
 
 License
