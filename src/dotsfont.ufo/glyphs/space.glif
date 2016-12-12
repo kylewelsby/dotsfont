@@ -3,10 +3,11 @@
   <advance width="1200"/>
   <unicode hex="0020"/>
   <outline>
-    <component base="template.1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-12 14:54:22 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

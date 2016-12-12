@@ -7,33 +7,45 @@
 	<key>capHeight</key>
 	<integer>750</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2016, Kyle Welsby (kyle@mekyle.com)</string>
+	<string>Copyright © 2016 by Kyle Welsby. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
 	<string>dotsfont</string>
+	<key>openTypeHeadCreated</key>
+	<string>2016/12/12 14:29:14</string>
+	<key>openTypeNameDesigner</key>
+	<string>Kyle Welsby</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://mekyle.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>dotsfont</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
+	<key>postscriptFontName</key>
+	<string>dotsfont-regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
+	<key>styleMapFamilyName</key>
+	<string>dotsfont</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>
